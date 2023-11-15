@@ -16,6 +16,7 @@ using System.Collections.Generic;
 //https://dev.to/kenakamu/c-azure-open-ai-and-function-calling-h7j
 //https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/function-calling-is-now-available-in-azure-openai-service/ba-p/3879241
 
+//added to gitrepo 15 Nov 2023
 namespace FunctionAppAOAI
 {
     public static class Function1
